@@ -7,7 +7,7 @@
                 $photo = 'defaut.png';
             }
             ?>
-            <figure class="photo"><img src="public/images/<?= $photo ?>" alt="photo de Aimé Mihi">
+            <figure class="photo"><img src="public/images/<?= $photo ?>" alt="photo de <?= $aStudent['firstname'] ?> <?= $aStudent['lastname'] ?>">
             </figure>
             <div class="infos">
                 <p class="nom"><?= $aStudent['firstname'] ?> <span><?= $aStudent['lastname'] ?></span></p>
