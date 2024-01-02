@@ -1,49 +1,16 @@
-<?php 
+<?php
+// 1 - Récupérer, calculer ou déclarer les données
+include 'database.php';
 
-    include 'database.php';
+$numStudent = 37;
+$student = $students[$numStudent];
 
-    $numStudent = 23;
-?>
+$page_title = 'Trombinoscope - ' . $student['firstname']  . ' ' . $student['lastname'];
 
-<!DOCTYPE html>
+// 2 - Construire la vue et l'injecter dans la variable $content
+ob_start();
+include 'app/view/fiche.view.php';
+$content = ob_get_clean();
 
-<html lang="fr">
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Trombinoscope - Aimé MIHI</title>
-
-
-
-    <link rel="stylesheet" type="text/css" href="trombi.css">
-</head>
-
-<body>
-
-    <header>
-        <a href="Trombinoscope.html"><h1>Trombinoscope </h1></a>
-        <p>Année 2023/2024</p>
-
-    </header>
-    <main>
-        <div class="fiche">
-            <div class="gauche">
-                <figure class="big_photo">
-                    <img src="./images/defaut.png" alt="photo par défaut">
-                </figure>
-            </div>
-            <div class="detail">
-                <p class="nom">André <span>Mihi</span></p>
-                <p class="ddn">01/02/2005</p>
-                <p class="groupe">groupe <span>12</span></p>
-                <p>
-                    Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création
-                    numérique.
-                </p>
-            </div>
-        </div>
-
-    </main>
-</body>
-
-</html>
+// 3 - Génération du code HTML de la page à partir du layout
+include 'app/view/common/layout.php';
