@@ -6,6 +6,7 @@ $students = [
         'lastname' => "ACAR",
         'birthdate' => '13/07/2004',
         'group' => '56',
+        'photo' => '56_seyma_acar.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     2 => [
@@ -83,6 +84,7 @@ $students = [
         'lastname' => "BENSADOK-WOEHRLÉ",
         'birthdate' => '22/06/2005',
         'group' => '34',
+        'photo' => '34_sara_bensadok.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     12 => [
@@ -136,6 +138,7 @@ $students = [
         'lastname' => "CHERQUI",
         'birthdate' => '17/02/2004',
         'group' => '12',
+        'photo' => '12_louis_cherqui.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     19 => [
@@ -143,6 +146,7 @@ $students = [
         'lastname' => "CHLOE",
         'birthdate' => '08/04/2004',
         'group' => '56',
+        'photo' => '56_nathan_chloe.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     20 => [
@@ -158,6 +162,7 @@ $students = [
         'lastname' => "COULIBALY",
         'birthdate' => '13/03/2005',
         'group' => '12',
+        'photo' => '12_armel_coulibaly.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     22 => [
@@ -165,6 +170,7 @@ $students = [
         'lastname' => "DAVID",
         'birthdate' => '16/10/2004',
         'group' => '78',
+        'photo' => '78_thomas_david.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     23 => [
@@ -172,6 +178,7 @@ $students = [
         'lastname' => "DECUYPER",
         'birthdate' => '03/02/2004',
         'group' => '78',
+        'photo' => '78_timeo_decuyper.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     24 => [
@@ -203,6 +210,7 @@ $students = [
         'lastname' => "DROUAULT",
         'birthdate' => '22/04/2005',
         'group' => '56',
+        'photo' => '56_leonie_drouault.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     28 => [
@@ -210,6 +218,7 @@ $students = [
         'lastname' => "EDDAHBI",
         'birthdate' => '08/01/2004',
         'group' => '12',
+        'photo' => '12_sami_eddahbi.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     29 => [
@@ -225,6 +234,7 @@ $students = [
         'lastname' => "EIFFES",
         'birthdate' => '23/06/2005',
         'group' => '12',
+        'photo' => '12_antoni_eiffes.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     31 => [
@@ -256,6 +266,7 @@ $students = [
         'lastname' => "EYA-JR IQ",
         'birthdate' => '05/09/2005',
         'group' => '34',
+        'photo' => '34_Jeevons_Eya-Jr_lq.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     35 => [
@@ -263,6 +274,7 @@ $students = [
         'lastname' => "FAITOUT--FOURMIGUE",
         'birthdate' => '11/06/2004',
         'group' => '78',
+        'photo' => '78_alban_faitout_fourmigue.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     36 => [
@@ -270,6 +282,7 @@ $students = [
         'lastname' => "FERREIRA CAETANO",
         'birthdate' => '14/10/2004',
         'group' => '56',
+        'photo' => '56_guilherme_ferreira_caetano.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     37 => [
@@ -300,6 +313,7 @@ $students = [
         'lastname' => "GOENGONDA",
         'birthdate' => '23/06/2005',
         'group' => '34',
+        'photo' => '34_priscille_goengonda.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     41 => [
@@ -315,6 +329,7 @@ $students = [
         'lastname' => "GOSSIÔME",
         'birthdate' => '09/05/2004',
         'group' => '78',
+        'photo' => '78_alicia_gossiome.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     43 => [
@@ -330,6 +345,7 @@ $students = [
         'lastname' => "GRELL--REGEN",
         'birthdate' => '08/04/2005',
         'group' => '78',
+        'photo' => '78_elsa_grell_regen.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     45 => [
@@ -337,6 +353,7 @@ $students = [
         'lastname' => "GUILLET",
         'birthdate' => '07/11/2005',
         'group' => '12',
+        'photo' => '12_guillet_sasha.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     46 => [
@@ -352,6 +369,7 @@ $students = [
         'lastname' => "HADRACHI DARRICARRERE",
         'birthdate' => '03/12/2005',
         'group' => '12',
+        'photo' => '12_lila_hadrachi.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     48 => [
@@ -359,6 +377,7 @@ $students = [
         'lastname' => "HAMRARAS",
         'birthdate' => '31/01/2004',
         'group' => '34',
+        'photo' => '34_cheriane_atigui.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     49 => [
@@ -396,6 +415,7 @@ $students = [
         'lastname' => "KUNZIKA ZUMBU",
         'birthdate' => '17/11/2005',
         'group' => '34',
+        'photo' => '34_benita_kunzika_zumbu.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     54 => [
@@ -419,6 +439,7 @@ $students = [
         'lastname' => "LAVANDEIRA",
         'birthdate' => '25/08/2004',
         'group' => '56',
+        'photo' => '56_lisa_lavandeira.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     57 => [
@@ -426,6 +447,7 @@ $students = [
         'lastname' => "LEBON",
         'birthdate' => '25/03/2005',
         'group' => '56',
+        'photo' => '56_alexandre_lebon.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     58 => [
@@ -497,6 +519,7 @@ $students = [
         'lastname' => "MEDE",
         'birthdate' => '25/07/2005',
         'group' => '78',
+        'photo' => '78_sergelie_mede.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     67 => [
@@ -511,6 +534,7 @@ $students = [
         'lastname' => "MEGHOUFEL",
         'birthdate' => '12/10/2004',
         'group' => '56',
+        'photo' => '56_amina_meghoufel.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     69 => [
@@ -526,6 +550,7 @@ $students = [
         'lastname' => "MESSAOUI",
         'birthdate' => '15/10/2005',
         'group' => '12',
+        'photo' => '12_lina_messaoui.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     71 => [
@@ -557,6 +582,7 @@ $students = [
         'lastname' => "MOUDIO BOUENYE",
         'birthdate' => '09/03/2005',
         'group' => '78',
+        'photo' => '78_nathan_moudio.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     75 => [
@@ -564,6 +590,7 @@ $students = [
         'lastname' => "MULLER",
         'birthdate' => '25/04/2004',
         'group' => '78',
+        'photo' => '78_mathis_muller.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     76 => [
@@ -571,6 +598,7 @@ $students = [
         'lastname' => "MUMBELA MULUME",
         'birthdate' => '29/07/2005',
         'group' => '12',
+        'photo' => '12_shiffer_mumbela_mulume.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     77 => [
@@ -578,6 +606,7 @@ $students = [
         'lastname' => "NALLACOUMOUPOULE",
         'birthdate' => '27/05/2005',
         'group' => '78',
+        'photo' => '78_mathieu_nallacoumoupoule.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     78 => [
@@ -585,6 +614,7 @@ $students = [
         'lastname' => "NDIAYE",
         'birthdate' => '29/12/2005',
         'group' => '56',
+        'photo' => '56_mohamed_ndiaye.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     79 => [
@@ -616,6 +646,7 @@ $students = [
         'lastname' => "OULED MABTOUL",
         'birthdate' => '07/01/2005',
         'group' => '12',
+        'photo' => '12_ayoub_ouled_mabtoul.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     83 => [
@@ -623,6 +654,7 @@ $students = [
         'lastname' => "OULMI",
         'birthdate' => '13/09/2005',
         'group' => '12',
+        'photo' => '12_yasmine_oulmi.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     84 => [
@@ -653,6 +685,7 @@ $students = [
         'lastname' => "PIEDADE",
         'birthdate' => '16/02/2005',
         'group' => '56',
+        'photo' => '56_lucas_piedade.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     88 => [
@@ -684,6 +717,7 @@ $students = [
         'lastname' => "RAMPARANY",
         'birthdate' => '28/07/2004',
         'group' => '12',
+        'photo' => '12_audrey_ramparany.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     92 => [
@@ -691,6 +725,7 @@ $students = [
         'lastname' => "REGNIER",
         'birthdate' => '07/02/2005',
         'group' => '78',
+        'photo' => '78_aurore_regnier.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     93 => [
@@ -706,6 +741,7 @@ $students = [
         'lastname' => "ROCHE",
         'birthdate' => '08/09/2005',
         'group' => '78',
+        'photo' => '78_tom_roche.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     95 => [
@@ -729,6 +765,7 @@ $students = [
         'lastname' => "SINGER",
         'birthdate' => '03/11/2005',
         'group' => '56',
+        'photo' => '56_yanis_singer.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     98 => [
@@ -736,6 +773,7 @@ $students = [
         'lastname' => "SINGPRASEUTH",
         'birthdate' => '13/11/2004',
         'group' => '34',
+        'photo' => '34_gabriel_singpraseuth.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     99 => [
@@ -743,6 +781,7 @@ $students = [
         'lastname' => "SISSOKO",
         'birthdate' => '09/11/2005',
         'group' => '56',
+        'photo' => '56_hata_sissoko.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     100 => [
@@ -750,6 +789,7 @@ $students = [
         'lastname' => "TABA TONDUKA",
         'birthdate' => '04/11/2004',
         'group' => '56',
+        'photo' => '56_rita_taba_tonduka.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     101 => [
@@ -765,6 +805,7 @@ $students = [
         'lastname' => "TISON",
         'birthdate' => '22/09/2005',
         'group' => '56',
+        'photo' => '56_alexis_tison.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     103 => [
@@ -772,6 +813,7 @@ $students = [
         'lastname' => "TOMBOZAZA",
         'birthdate' => '08/03/2005',
         'group' => '56',
+        'photo' => '56_andoniaina_tombozaza.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     104 => [
@@ -786,6 +828,7 @@ $students = [
         'lastname' => "TSOURIA BELAID",
         'birthdate' => '11/03/2004',
         'group' => '78',
+        'photo' => '78_adam_tsouria_belaid.png',
         'description' => "Je suis un brillant élève de l'IUT Sénart Fontainebleau. Je suis passionné par le WEB et la création numérique.", 
     ],
     106 => [
