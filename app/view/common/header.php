@@ -9,7 +9,7 @@
 
 
     <link rel="stylesheet" type="text/css" href="public/css/trombi.css">
-    <?php if ($mpty($css)) : ?>
+    <?php if (isset($css)) : ?>
         <link rel="stylesheet" href="public/css/<?= $css ?>">
     <?php endif ?>
 </head>
