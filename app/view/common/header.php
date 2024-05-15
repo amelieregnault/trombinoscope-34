@@ -6,8 +6,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title><?= $page_title ?></title>
 
-
-
     <link rel="stylesheet" type="text/css" href="public/css/trombi.css">
     <?php if (isset($css)) : ?>
         <link rel="stylesheet" href="public/css/<?= $css ?>">
