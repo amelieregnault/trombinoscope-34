@@ -11,13 +11,12 @@ require_once 'app/model/connexionBDD.php';
 require_once 'app/model/trombi.model.php';
 
 
+$pdo = getDatabaseConnection();
+$nbPages = getNbPages($pdo);
 $numPage = 1;
 if (isset($_GET['page']) && ctype_digit($_GET['page']) && $_GET['page'] > 0 && $_GET['page']<=$nbPages) {
     $numPage = $_GET['page'];
 }
-
-$pdo = getDatabaseConnection();
-$nbPages = getNbPages($pdo);
 
 // Ecrire le code pour récupérer le tableau des étudiants provenant
 // de la base de données
